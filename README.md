@@ -64,7 +64,7 @@ Este é um projeto de API RESTful desenvolvido em **Java** com **Spring Boot**, 
 - Certifique-se de que você tenha Java 17 ou superior instalado.
 - Clone este repositório:
 ```
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone https://github.com/JavaScript-Py/aula-rest.git
 ```
 - Acesse o diretório do projeto:
 
