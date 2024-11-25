@@ -8,7 +8,7 @@ Este é um projeto de API RESTful desenvolvido em **Java** com **Spring Boot**, 
 - **Java 17+**
 - **Spring Boot 3.x**
 - **Spring Data JPA**
-- **H2 Database** (ou outro banco relacional à sua escolha)
+- **MYSQL**
 - **Maven** para gerenciamento de dependências
 
 ---
